@@ -1,2 +1,3 @@
 # IS_590_OM_FINAL_DATASET
-This assignment is used to combine various dataset as a whole in order for the future analysis processing.
+# The Main Purpose
+This assignment is used to combine various dataset as a whole. The whole dataset will be used to analyze the factors to impact the success rate of skill immigtation. The factors include: skill, industry, skill penetration, country, university and major.
